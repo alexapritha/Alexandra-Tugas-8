@@ -1,7 +1,7 @@
 # Alexandra-Tugas-8
 Tugas 8 Kelas A Pemrograman Web Sistem Informasi
 
-# Petunjuk README untuk Project Laravel Peminjaman Buku
+# Petunjuk untuk Project Laravel Website Peminjaman Buku
 
 ## Persyaratan Sistem
 - PHP >= 8.1
